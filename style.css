@@ -52,11 +52,6 @@ h4 {
   font-size: 1.2rem;
   margin-bottom: 1rem;
 }
-
-p {
-
-}
-
 /* End of Fonts */
 
 /* Buttons */
@@ -78,7 +73,6 @@ p {
   cursor: pointer;
   box-shadow: 0 0.4rem 1.4rem 0 tgba(86, 185, 235, 0.5);
   background-color: #56a5eb;
-  color: white;
   transition: ease-in-out 436.2ms;
 }
 
@@ -88,6 +82,14 @@ p {
   transform: none;
 }
 
+.Author:hover {
+  background-color: black;
+  width: 100%;
+}
+
+.Author:hover p {
+  color: red;
+}
 
 /* End of Animation */
 
