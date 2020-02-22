@@ -20,6 +20,11 @@ h1 {
   margin-bottom: 1rem;
 }
 
+h1 > span {
+  font-size: 2.4rem;
+  font-weight: 500;
+}
+
 h2 {
   font-size: 4.2rem;
   font-weight: 700;
@@ -54,4 +59,12 @@ p {
 
 flex-center flex-column {
 
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
