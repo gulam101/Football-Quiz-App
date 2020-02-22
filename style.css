@@ -11,6 +11,13 @@
   color: #333;
 }
 
+.Author {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 /* Font */
 
 h1, h2, h3, h4 {
@@ -52,7 +59,35 @@ p {
 
 /* End of Fonts */
 
+/* Buttons */
+.btn {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+  width: 20rem;
+  text-align: center;
+  border: 0.1rem solid #56a5eb;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  color: #56a5eb;
+  background-color: white;
+}
+
 /* Animation */
+
+.btn:hover {
+  cursor: pointer;
+  box-shadow: 0 0.4rem 1.4rem 0 tgba(86, 185, 235, 0.5);
+  background-color: #56a5eb;
+  color: white;
+  transition: ease-in-out 436.2ms;
+}
+
+.btn[disabled]:hover {
+  cursor: not-allowed;
+  box-shadow: none;
+  transform: none;
+}
+
 
 /* End of Animation */
 
@@ -95,33 +130,6 @@ p {
 
 .hidden {
   display: none;
-}
-
-/* Buttons */
-.btn {
-  font-size: 1.8rem;
-  padding: 1rem 0;
-  width: 20rem;
-  text-align: center;
-  border: 0.1rem solid #56a5eb;
-  margin-bottom: 1rem;
-  text-decoration: none;
-  color: #56a5eb;
-  background-color: white;
-}
-
-.btn:hover {
-  cursor: pointer;
-  box-shadow: 0 0.4rem 1.4rem 0 tgba(86, 185, 235, 0.5);
-  background-color: #56a5eb;
-  color: white;
-  transition: ease-in-out 436.2ms;
-}
-
-.btn[disabled]:hover {
-  cursor: not-allowed;
-  box-shadow: none;
-  transform: none;
 }
 
 
