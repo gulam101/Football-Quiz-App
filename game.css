@@ -29,6 +29,12 @@
  color: white;
 }
 
+.choice-prefix {
+  padding: 1.5rem 2.5rem;
+  background-color: #56a6eb;
+  color: white;
+}
+
 h2 {
   font-size: 32px;
   text-align: center;
