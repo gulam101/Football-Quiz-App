@@ -21,8 +21,9 @@
 }
 
 .choice-container:hover {
-  background-color: blue;
+  background-color: grey;
   transition: 400ms;
+  cursor: pointer;
 }
 
 .choice-container:hover p {
@@ -35,8 +36,29 @@
   color: white;
 }
 
+.choice-prefix:hover {
+  transition: ease-in-out 500ms;
+}
+
+h1 {
+  font-size: 55px;
+  text-align: center;
+  transition: 600ms;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
 h2 {
   font-size: 32px;
   text-align: center;
   transition: 600ms;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+p {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 17px;
+  padding-bottom: 17px;
 }
