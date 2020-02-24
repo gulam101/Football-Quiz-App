@@ -75,7 +75,7 @@ h4 {
   box-shadow: 0 0.4rem 1.4rem 0 tgba(86, 185, 235, 0.5);
   background-color: #56a5eb;
   transition: ease-in-out 436.2ms;
-  color: red;
+  color: white;
 }
 
 .btn[disabled]:hover {
@@ -87,6 +87,7 @@ h4 {
 .Author:hover {
   background-color: black;
   width: 100%;
+  transition: ease-in-out 700ms;
 }
 
 .Author:hover p {
