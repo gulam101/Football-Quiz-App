@@ -24,6 +24,7 @@
   background-color: grey;
   transition: 400ms;
   cursor: pointer;
+  transform: scale(0.95);
 }
 
 .choice-container:hover p {
@@ -57,4 +58,29 @@ p {
   padding-right: 15px;
   padding-top: 17px;
   padding-bottom: 17px;
+}
+
+.button {
+  background-color: white;
+  border: none;
+  padding: 17px 20px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+  transform: scale(1.1);
+  transition: ease-in-out 200ms;
+}
+
+/* Stops the button from being placed on the edge of the screen */
+.container-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
 }
