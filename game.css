@@ -36,10 +36,6 @@
   color: white;
 }
 
-.choice-prefix:hover {
-  transition: ease-in-out 500ms;
-}
-
 h1 {
   font-size: 55px;
   text-align: center;
