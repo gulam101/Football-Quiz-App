@@ -74,7 +74,6 @@ h4 {
 }
 
 /* Animation */
-
 .btn:hover {
   cursor: pointer;
   box-shadow: 0 0.4rem 1.4rem 0 rgba(16, 125, 170, 5.5);
@@ -121,11 +120,6 @@ h4 {
 	from { color: #56a5eb; }
 	to { color: #1147C5; }
 }
-
-/* Images */
-
-
-/* End of Images */
 
 .container {
   width: 100vw;
@@ -185,7 +179,6 @@ footer {
 }
 
 /* Footer Icons */
-
 .fa {
  padding: 20px;
  font-size: 30px;
