@@ -179,14 +179,21 @@ footer {
 }
 
 /* Footer Icons */
+.center-div {
+  display: flex;
+  justify-content: center;
+}
+
+
 .fa {
  padding: 20px;
  font-size: 30px;
  text-align: center;
  text-decoration: none;
- margin: 15px;
+ width: 50% auto;
+ margin: 15px auto;
  border-radius: 115px;
- position: relative;
+ position: fixed;
 }
 
 .fa-linkedin {
