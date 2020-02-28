@@ -127,5 +127,11 @@ h4 {
   display: none;
 }
 
+.under-text {
+  display: flex;
+  justify-content: center;
+  width: 550px;
+  margin: auto;
+}
 
 /* End of Buttons */
