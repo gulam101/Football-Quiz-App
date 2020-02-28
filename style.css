@@ -29,6 +29,7 @@ h1 {
   color: #56a5eb;
   margin-bottom: 5rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 h1 > span {
@@ -51,6 +52,7 @@ h4 {
   font-weight: 300;
   font-size: 1.2rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 /* End of Fonts */
 
@@ -84,7 +86,7 @@ h4 {
   transform: none;
 }
 
-.color-animation {
+.color-animation h1 {
 	-webkit-animation: color_change 1s infinite alternate;
 	-moz-animation: color_change 1s infinite alternate;
 	-ms-animation: color_change 1s infinite alternate;
