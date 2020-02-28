@@ -1,3 +1,5 @@
+/*86, 185, 235, 0.5*/
+
 :root {
   background-color: #ecf5ff;
   font-size: 82.5%;
@@ -74,7 +76,7 @@ h4 {
 
 .btn:hover {
   cursor: pointer;
-  box-shadow: 0 0.4rem 1.4rem 0 tgba(86, 185, 235, 0.5);
+  box-shadow: 0 0.4rem 1.4rem 0 rgba(16, 5, 170, 5.5);
   background-color: #56a5eb;
   transition: ease-in-out 436.2ms;
   color: white;
