@@ -98,24 +98,24 @@ h4 {
 
 /* Key Frames */
 @-webkit-keyframes color_change {
-	from { color: blue; }
-	to { color: red; }
+	from { color: #56a5eb; }
+	to { color: black; }
 }
 @-moz-keyframes color_change {
-	from { color: blue; }
-	to { color: red; }
+	from { color: #56a5eb; }
+	to { color: black; }
 }
 @-ms-keyframes color_change {
-	from { color: blue; }
-	to { color: red; }
+	from { color: #56a5eb; }
+	to { color: black; }
 }
 @-o-keyframes color_change {
-	from { color: blue; }
-	to { color: red; }
+	from { color: #56a5eb; }
+	to { color: black; }
 }
 @keyframes color_change {
-	from { color: blue; }
-	to { color: red; }
+	from { color: #56a5eb; }
+	to { color: black; }
 }
 
 /* Images */
