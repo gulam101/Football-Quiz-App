@@ -84,7 +84,37 @@ h4 {
   transform: none;
 }
 
+.color-animation {
+	-webkit-animation: color_change 1s infinite alternate;
+	-moz-animation: color_change 1s infinite alternate;
+	-ms-animation: color_change 1s infinite alternate;
+	-o-animation: color_change 1s infinite alternate;
+	animation: color_change 1s infinite alternate;
+}
+
 /* End of Animation */
+
+/* Key Frames */
+@-webkit-keyframes color_change {
+	from { color: blue; }
+	to { color: red; }
+}
+@-moz-keyframes color_change {
+	from { color: blue; }
+	to { color: red; }
+}
+@-ms-keyframes color_change {
+	from { color: blue; }
+	to { color: red; }
+}
+@-o-keyframes color_change {
+	from { color: blue; }
+	to { color: red; }
+}
+@keyframes color_change {
+	from { color: blue; }
+	to { color: red; }
+}
 
 /* Images */
 
