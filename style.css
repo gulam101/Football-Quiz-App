@@ -1,5 +1,3 @@
-/*86, 185, 235, 0.5*/
-
 :root {
   background-color: #ecf5ff;
   font-size: 82.5%;
@@ -56,6 +54,7 @@ h4 {
   margin-bottom: 1rem;
   text-align: center;
 }
+
 /* End of Fonts */
 
 /* Buttons */
@@ -88,6 +87,7 @@ h4 {
   transform: none;
 }
 
+/* Targets the browsers so that it can play the animation */
 .color-animation h1 {
 	-webkit-animation: color_change 1500ms infinite alternate;
 	-moz-animation: color_change 1500ms infinite alternate;
@@ -100,6 +100,8 @@ h4 {
 /* End of Animation */
 
 /* Key Frames */
+
+/* Calls our variable we created and changes the color */
 @-webkit-keyframes color_change {
 	from { color: #56a5eb; }
 	to { color: #1147C5; }
@@ -120,6 +122,8 @@ h4 {
 	from { color: #56a5eb; }
 	to { color: #1147C5; }
 }
+
+/* End of Key Frames */
 
 .container {
   width: 100vw;
@@ -166,10 +170,6 @@ h4 {
 
 /* End of Buttons */
 
-.fa:hover {
-  opacity: 0.7s;
-}
-
 /*Footer*/
 footer {
   position: relative;
@@ -178,7 +178,11 @@ footer {
   clear: both;
 }
 
+/* End of Footer */
+
 /* Footer Icons */
+
+/* This div fixes the icons being placed on the side */
 .center-div {
   display: flex;
   justify-content: center;
@@ -215,3 +219,9 @@ footer {
   transform: scale(1.4);
   transition: ease-in-out 200ms;
 }
+
+.fa:hover {
+  opacity: 0.7s;
+}
+
+/* End of Footer Icons */
