@@ -184,7 +184,6 @@ footer {
   justify-content: center;
 }
 
-
 .fa {
  padding: 20px;
  font-size: 30px;
@@ -199,4 +198,9 @@ footer {
 .fa-linkedin {
   background: #007bb5;
   color: white;
+}
+
+.fa-linkedin:hover {
+  transform: scale(1.4);
+  transition: ease-in-out 200ms;
 }
