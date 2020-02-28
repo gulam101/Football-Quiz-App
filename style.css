@@ -89,11 +89,11 @@ h4 {
 }
 
 .color-animation h1 {
-	-webkit-animation: color_change 1s infinite alternate;
-	-moz-animation: color_change 1s infinite alternate;
-	-ms-animation: color_change 1s infinite alternate;
-	-o-animation: color_change 1s infinite alternate;
-	animation: color_change 1s infinite alternate;
+	-webkit-animation: color_change 1500ms infinite alternate;
+	-moz-animation: color_change 1500ms infinite alternate;
+	-ms-animation: color_change 1500ms infinite alternate;
+	-o-animation: color_change 1500ms infinite alternate;
+	animation: color_change 1500ms infinite alternate;
 }
 
 /* End of Animation */
@@ -101,23 +101,23 @@ h4 {
 /* Key Frames */
 @-webkit-keyframes color_change {
 	from { color: #56a5eb; }
-	to { color: black; }
+	to { color: #1147C5; }
 }
 @-moz-keyframes color_change {
 	from { color: #56a5eb; }
-	to { color: black; }
+	to { color: #1147C5; }
 }
 @-ms-keyframes color_change {
 	from { color: #56a5eb; }
-	to { color: black; }
+	to { color: #1147C5; }
 }
 @-o-keyframes color_change {
 	from { color: #56a5eb; }
-	to { color: black; }
+	to { color: #1147C5; }
 }
 @keyframes color_change {
 	from { color: #56a5eb; }
-	to { color: black; }
+	to { color: #1147C5; }
 }
 
 /* Images */
