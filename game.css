@@ -62,7 +62,8 @@ p {
 
 .button {
   background-color: white;
-  border: none;
+  border: 0.1rem solid #56a5eb;
+  border-radius: 115px;
   padding: 17px 20px;
   color: black;
   text-align: center;
