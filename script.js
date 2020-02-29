@@ -9,10 +9,21 @@ let avalibleQuestions = [];
 
 let questions = [
 {
-  question: "who won the premier league in 2007?"
-  choice1: console.writeLine("Test");
-}
-
+  question: "who won the premier league in 2007?",
+  choice1: "Placeholder",
+  choice1: "Placeholder",
+  choice1: "Placeholder",
+  choice1: "Placeholder",
+  answer: 1
+},
+{
+question: "who won the premier league in 2007?",
+choice1: "Placeholder",
+choice1: "Placeholder",
+choice1: "Placeholder",
+choice1: "Placeholder",
+answer: 1
+},
 
 
 ];
