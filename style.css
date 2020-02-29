@@ -168,6 +168,15 @@ h4 {
   margin: auto;
 }
 
+.flex-container {
+  display: flex;
+}
+
+.flex-container > div {
+  margin: 10px;
+  padding: 20px;
+}
+
 /* End of Buttons */
 
 /*Footer*/
@@ -206,8 +215,6 @@ footer {
 
 .fa-github {
   background-color: white;
-  position: absolute;
-  display: list-item;
 }
 
 .fa-linkedin {
