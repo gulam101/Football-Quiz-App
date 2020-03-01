@@ -1,5 +1,5 @@
-const question = document.getElementsById("question");
-const choices = Array.from(document.getElementsById("choice-text"));
+const question = document.getElementById("question");
+const choices = Array.from(document.getElementsByClassName("choice-text"));
 
 let currenQuestion = {};
 let acceptingAwnsers = true;
@@ -23,9 +23,7 @@ choice1: "Placeholder",
 choice1: "Placeholder",
 choice1: "Placeholder",
 answer: 1
-},
-
-
+}
 ];
 
 //Constants
@@ -44,5 +42,9 @@ startGame = () => {
 
 getNewQuestion = () => {
   questionCounter++;
+  const questionIndex = Math.floor(math.random() * avalibleQuestions.length);
+  currenQuestion = avalibleQuestions[quesionIndex];
+  question.innerText = currentQuestion.question;
+};
 
-}
+startGame();
