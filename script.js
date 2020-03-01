@@ -5,7 +5,7 @@ let currentQuestion = {};
 let acceptingAwnsers = true;
 let score = 0;
 let questionCounter = 0;
-let avaliableQuestions = [];
+let availableQuesions = [];
 
 let questions = [
 {
@@ -35,29 +35,41 @@ startGame = () => {
   score = 0;
   //the 3 dots is taking our exitsting array and spreading
   //them out and then putting them into a new array
-  avaliableQuestions = [...questions];
-  console.log(avaliableQuestions);
+  availableQuesions = [...questions];
+  console.log(availableQuesions);
   getNewQuestion();
 };
 
 getNewQuestion = () => {
-  if(avaliableQuestions.length === 0 || questionCounter >= Max_Questions) {
+  if(availableQuesions.length === 0 || questionCounter >= Max_Questions) {
     //go to the end page
     return window.location.assign("/end.html");
   }
   questionCounter++;
-  const questionIndex = Math.floor(Math.random() * avaliableQuestions.length);
-  currentQuestion = avaliableQuestions[questionIndex];
-  question.innerText = currentQuestion.question;
+    const questionIndex = Math.floor(Math.random() * availableQuesions.length);
+    currentQuestion = availableQuesions[questionIndex];
+    question.innerText = currentQuestion.question;
 
   choices.forEach(choice => {
     const number = choice.dataset["number"];
     choice.innerText = currentQuestion["choice" + number]
   });
 
-  //avaliableQuestions
-
-
+  avaliableQuestions.splice(questionIndex, 1);
+  console.log(avaliableQuestions);
+  acceptingAwnsers = true;
 };
+
+choices.forEach(choice => {
+  choice.addEventListener("click", e => {
+    if (!acceptingAnswers) return;
+
+    acceptingAnswers = false;
+    const selectedChoice = e.target;
+    const selectedAnswer = selectedChoice.dataset["number"];
+    console.log(selectedAnswer);
+    getNewQuestion();
+  });
+});
 
 startGame();
