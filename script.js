@@ -1,3 +1,4 @@
+//Using const stops anything from updating these values unless specified!
 const question = document.getElementById("question");
 const choices = Array.from(document.getElementsByClassName("choice-text"));
 
@@ -7,6 +8,7 @@ let score = 0;
 let questionCounter = 0;
 let availableQuestions = [];
 
+//Stores our questions
 let questions = [
 {
   question: "who won the premier league in 2007?",
@@ -27,13 +29,15 @@ let questions = [
 ];
 
 
-//CONSTANTS
+//DONT WANT THESE VALUES TO CHANGE
 const CORRECT_BONUS = 10;
 const Max_Questions = 3;
 
 startGame = () => {
   questionCounter = 0;
   score = 0;
+  //the 3 dots is taking our exitsting array and spreading
+  //them out and then putting them into a new array
   availableQuestions = [...questions];
   console.log(availableQuestions);
   getNewQuestion();
@@ -41,7 +45,7 @@ startGame = () => {
 
 getNewQuestion = () => {
   if (availableQuestions.length === 0 || questionCounter >= Max_Questions) {
-    //go to the end page
+    //goes to the end page
     return window.location.assign("/end.html");
   }
   questionCounter++;
