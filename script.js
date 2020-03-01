@@ -5,7 +5,7 @@ let currentQuestion = {};
 let acceptingAwnsers = true;
 let score = 0;
 let questionCounter = 0;
-let avalibleQuestions = [];
+let avaliableQuestions = [];
 
 let questions = [
 {
@@ -46,9 +46,18 @@ getNewQuestion = () => {
     return window.location.assign("/end.html");
   }
   questionCounter++;
-  const questionIndex = Math.floor(Math.random() * avalibleQuestions.length);
-  currentQuestion = avalibleQuestions[questionIndex];
+  const questionIndex = Math.floor(Math.random() * avaliableQuestions.length);
+  currentQuestion = avaliableQuestions[questionIndex];
   question.innerText = currentQuestion.question;
+
+  choices.forEach(choice => {
+    const number = choice.dataset["number"];
+    choice.innerText = currentQuestion["choice" + number]
+  });
+
+  //avaliableQuestions
+
+
 };
 
 startGame();
