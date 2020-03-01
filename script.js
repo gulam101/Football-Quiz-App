@@ -27,3 +27,22 @@ answer: 1
 
 
 ];
+
+//Constants
+const Correct_Bounds = 10;
+const Max_Questions = 5;
+
+startGame = () => {
+  questionsCounter = 0;
+  score = 0;
+  //the 3 dots is taking our exitsting array and spreading
+  //them out and then putting them into a new array
+  avaliableQuestions = [... questions];
+  console.log(avaliableQuestions);
+  getNewQuestion();
+};
+
+getNewQuestion = () => {
+  questionCounter++;
+
+}
