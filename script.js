@@ -5,7 +5,7 @@ let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
 let questionCounter = 0;
-let availableQuesions = [];
+let availableQuestions = [];
 
 let questions = [
 {
@@ -34,19 +34,19 @@ const Max_Questions = 3;
 startGame = () => {
   questionCounter = 0;
   score = 0;
-  availableQuesions = [...questions];
-  console.log(availableQuesions);
+  availableQuestions = [...questions];
+  console.log(availableQuestions);
   getNewQuestion();
 };
 
 getNewQuestion = () => {
-  if (availableQuesions.length === 0 || questionCounter >= Max_Questions) {
+  if (availableQuestions.length === 0 || questionCounter >= Max_Questions) {
     //go to the end page
     return window.location.assign("/end.html");
   }
   questionCounter++;
-  const questionIndex = Math.floor(Math.random() * availableQuesions.length);
-  currentQuestion = availableQuesions[questionIndex];
+  const questionIndex = Math.floor(Math.random() * availableQuestions.length);
+  currentQuestion = availableQuestions[questionIndex];
   question.innerText = currentQuestion.question;
 
   choices.forEach(choice => {
@@ -54,8 +54,8 @@ getNewQuestion = () => {
     choice.innerText = currentQuestion["choice" + number];
   });
 
-  availableQuesions.splice(questionIndex, 1);
-  console.log(availableQuesions);
+  availableQuestions.splice(questionIndex, 1);
+  console.log(availableQuestions);
   acceptingAnswers = true;
 };
 
