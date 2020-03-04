@@ -107,7 +107,7 @@ let questions = [
   choice2: "1996",
   choice3: "2001",
   choice4: "1997",
-  answer: 1
+  answer: 2
 },
 {
   //Question 13
