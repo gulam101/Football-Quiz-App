@@ -12,7 +12,7 @@ let availableQuestions = [];
 let questions = [
 {
   //Question 1
-  question: "Who Won The Premier League in 2007?",
+  question: "Who won the Premier League in 2007?",
   choice1: "Manchester United",
   choice2: "Liverpool",
   choice3: "Chelsea",
