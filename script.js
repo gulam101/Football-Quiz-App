@@ -59,10 +59,10 @@ let questions = [
   //Question 6
   question: "In which year did Juventus last get relegated?",
   choice1: "2005",
-  choice2: "2003",
+  choice2: "2006",
   choice3: "2007",
-  choice4: "2006",
-  answer: 4
+  choice4: "2003",
+  answer: 2
 },
 {
   //Question 7
