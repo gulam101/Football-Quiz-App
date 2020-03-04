@@ -75,11 +75,11 @@ let questions = [
 },
 {
   //Question 8
-  question: "What season did Chelsea sign Eden Hazard?",
-  choice1: "2011/2012",
-  choice2: "2012/2013",
-  choice3: "2010/2011",
-  choice4: "2013/2014",
+  question: "How many goals did messi score in 2012?",
+  choice1: "91",
+  choice2: "103",
+  choice3: "89",
+  choice4: "90",
   answer: 1
 },
 {
