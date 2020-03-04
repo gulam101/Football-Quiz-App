@@ -101,13 +101,22 @@ let questions = [
   answer: 4
 },
 {
-  //Question 12
+  //Question 11
   question: "When did Wenger join Arsenal?",
   choice1: "1999",
   choice2: "1996",
   choice3: "2001",
   choice4: "1997",
   answer: 2
+},
+{
+  //Question 12
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
 },
 {
   //Question 13
@@ -165,15 +174,6 @@ let questions = [
 },
 {
   //Question 19
-  question: "What season did Chelsea sign Eden Hazard?",
-  choice1: "2011/2012",
-  choice2: "2012/2013",
-  choice3: "2010/2011",
-  choice4: "2013/2014",
-  answer: 1
-},
-{
-  //Question 20
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
