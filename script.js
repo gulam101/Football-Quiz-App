@@ -44,7 +44,7 @@ let questions = [
   choice2: "Napoli",
   choice3: "Paris Saint Germain",
   choice4: "Inter Milan",
-  answer: 1
+  answer: 4
 },
 {
   //Question 5
