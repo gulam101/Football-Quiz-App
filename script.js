@@ -11,6 +11,7 @@ let availableQuestions = [];
 //Stores our questions
 let questions = [
 {
+  //Question 1
   question: "Who Won The Premier League in 2007?",
   choice1: "Manchester United",
   choice2: "Liverpool",
@@ -19,6 +20,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 2
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -27,6 +29,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 3
   question: "Which position did Nani play in at Manchester United?",
   choice1: "Right Wing Only",
   choice2: "Left Wing Only",
@@ -35,14 +38,16 @@ let questions = [
   answer: 4
 },
 {
-  question: "When did Coutinho sign for Liverpool?",
-  choice1: "2011/2012",
-  choice2: "2012/2013",
-  choice3: "2013/2014",
-  choice4: "2015/2016",
+  //Question 4
+  question: "What club was Coutinho play before Liverpool",
+  choice1: "Juventus",
+  choice2: "Napoli",
+  choice3: "Paris Saint Germain",
+  choice4: "Inter Milan",
   answer: 1
 },
 {
+  //Question 5
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -51,6 +56,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 6
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -59,6 +65,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 7
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -67,6 +74,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 8
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -75,6 +83,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 9
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -83,6 +92,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 10
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -91,6 +101,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 12
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -99,6 +110,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 13
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -107,6 +119,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 14
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -115,6 +128,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 15
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -123,6 +137,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 16
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -131,6 +146,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 17
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -139,6 +155,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 18
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -147,6 +164,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 19
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -155,6 +173,7 @@ let questions = [
   answer: 1
 },
 {
+  //Question 20
   question: "What season did Chelsea sign Eden Hazard?",
   choice1: "2011/2012",
   choice2: "2012/2013",
@@ -162,6 +181,7 @@ let questions = [
   choice4: "2013/2014",
   answer: 1
 },
+//End of questions
 ];
 
 
