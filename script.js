@@ -25,13 +25,149 @@ let questions = [
   choice3: "2010/2011",
   choice4: "2013/2014",
   answer: 1
-}
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
+{
+  question: "What season did Chelsea sign Eden Hazard?",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
+  answer: 1
+},
 ];
 
 
 //DONT WANT THESE VALUES TO CHANGE
 const CORRECT_BONUS = 10;
-const Max_Questions = 3;
+const Max_Questions = 25;
 
 startGame = () => {
   questionCounter = 0;
