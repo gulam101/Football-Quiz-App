@@ -93,12 +93,12 @@ let questions = [
 },
 {
   //Question 10
-  question: "What season did Chelsea sign Eden Hazard?",
-  choice1: "2011/2012",
-  choice2: "2012/2013",
-  choice3: "2010/2011",
-  choice4: "2013/2014",
-  answer: 1
+  question: "When did Andrea Pirlo retire?",
+  choice1: "2015",
+  choice2: "2016",
+  choice3: "2018",
+  choice4: "2017",
+  answer: 4
 },
 {
   //Question 12
