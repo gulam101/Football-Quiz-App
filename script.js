@@ -71,7 +71,7 @@ let questions = [
   choice2: "Manager and assistant manager paying refs for favourable outcomes",
   choice3: "Manager hit the ref in the face",
   choice4: "Club went into financial debt",
-  answer: 1
+  answer: 2
 },
 {
   //Question 8
