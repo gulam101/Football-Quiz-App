@@ -66,11 +66,11 @@ let questions = [
 },
 {
   //Question 7
-  question: "What season did Chelsea sign Eden Hazard?",
-  choice1: "2011/2012",
-  choice2: "2012/2013",
-  choice3: "2010/2011",
-  choice4: "2013/2014",
+  question: "What was the reason for Juventus for getting relegated?",
+  choice1: "Players betting on matches",
+  choice2: "Manager and assistant manager paying refs for favourable outcomes",
+  choice3: "Manager hit the ref in the face",
+  choice4: "Club went into financial debt",
   answer: 1
 },
 {
