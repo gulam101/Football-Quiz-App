@@ -48,12 +48,12 @@ let questions = [
 },
 {
   //Question 5
-  question: "What season did Chelsea sign Eden Hazard?",
-  choice1: "2011/2012",
-  choice2: "2012/2013",
-  choice3: "2010/2011",
-  choice4: "2013/2014",
-  answer: 1
+  question: "In the Brazilian League, what club was Neymar Jr playing for?",
+  choice1: "Vasco",
+  choice2: "Santos",
+  choice3: "Sport",
+  choice4: "Flamengo",
+  answer: 2
 },
 {
   //Question 6
