@@ -75,7 +75,7 @@ let questions = [
 },
 {
   //Question 8
-  question: "How many goals did messi score in 2012?",
+  question: "How many goals did Messi score in 2012?",
   choice1: "91",
   choice2: "103",
   choice3: "89",
