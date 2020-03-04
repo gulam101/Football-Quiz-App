@@ -12,14 +12,14 @@ let availableQuestions = [];
 let questions = [
 {
   question: "Who Won The Premier League in 2007?",
-  choice1: "Placeholder",
-  choice2: "Placeholder",
-  choice3: "Placeholder",
-  choice4: "Placeholder",
+  choice1: "Manchester United",
+  choice2: "Liverpool",
+  choice3: "Chelsea",
+  choice4: "Arsenal",
   answer: 1
 },
 {
-  question: "What season was Eden Hazard Signed in?",
+  question: "What season did Chelsea sign Eden Hazard?",
   choice1: "Placeholder",
   choice2: "Placeholder",
   choice3: "Placeholder",
