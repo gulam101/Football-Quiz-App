@@ -147,12 +147,12 @@ let questions = [
 },
 {
   //Question 16
-  question: "Placeholder",
-  choice1: "Placeholder",
-  choice2: "Placeholder",
-  choice3: "Placeholder",
-  choice4: "Placeholder",
-  answer: 1
+  question: "What was Kaka's last club?",
+  choice1: "Real Madrid",
+  choice2: "Sao Paulo",
+  choice3: "Orlando City",
+  choice4: "Ac Milan",
+  answer: 3
 },
 {
   //Question 17
