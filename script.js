@@ -39,7 +39,7 @@ let questions = [
 },
 {
   //Question 4
-  question: "What club was Coutinho play before Liverpool",
+  question: "What club was Coutinho playing before Liverpool",
   choice1: "Juventus",
   choice2: "Napoli",
   choice3: "Paris Saint Germain",
