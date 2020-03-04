@@ -35,11 +35,11 @@ let questions = [
   answer: 4
 },
 {
-  question: "What season did Chelsea sign Eden Hazard?",
+  question: "When did Coutinho sign for Liverpool?",
   choice1: "2011/2012",
   choice2: "2012/2013",
-  choice3: "2010/2011",
-  choice4: "2013/2014",
+  choice3: "2013/2014",
+  choice4: "2015/2016",
   answer: 1
 },
 {
