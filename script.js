@@ -57,12 +57,12 @@ let questions = [
 },
 {
   //Question 6
-  question: "What season did Chelsea sign Eden Hazard?",
-  choice1: "2011/2012",
-  choice2: "2012/2013",
-  choice3: "2010/2011",
-  choice4: "2013/2014",
-  answer: 1
+  question: "In which year did Juventus get relegated?",
+  choice1: "2005",
+  choice2: "2003",
+  choice3: "2007",
+  choice4: "2006",
+  answer: 4
 },
 {
   //Question 7
