@@ -27,12 +27,12 @@ let questions = [
   answer: 1
 },
 {
-  question: "What season did Chelsea sign Eden Hazard?",
-  choice1: "2011/2012",
-  choice2: "2012/2013",
-  choice3: "2010/2011",
-  choice4: "2013/2014",
-  answer: 1
+  question: "Which position did Nani play in at Manchester United?",
+  choice1: "Right Wing Only",
+  choice2: "Left Wing Only",
+  choice3: "LM and RM",
+  choice4: "Both LW and RW",
+  answer: 4
 },
 {
   question: "What season did Chelsea sign Eden Hazard?",
