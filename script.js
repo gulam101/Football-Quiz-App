@@ -122,19 +122,19 @@ let questions = [
   //Question 13
   question: "Which match was played for Sir Alex Ferguson final match?",
   choice1: "A 5 all draw against West Bromwich Albion",
-  choice2: "Placeholder",
-  choice3: "Placeholder",
-  choice4: "Placeholder",
+  choice2: "A win against Liverpool",
+  choice3: "A loss against West Bromwhich Albion",
+  choice4: "A win against West Bromwhich Albion",
   answer: 1
 },
 {
   //Question 14
-  question: "Placeholder",
-  choice1: "Placeholder",
-  choice2: "Placeholder",
-  choice3: "Placeholder",
-  choice4: "Placeholder",
-  answer: 1
+  question: "Which position did Joey Barton play at Queens Park Rangers?",
+  choice1: "ST",
+  choice2: "CM",
+  choice3: "CB",
+  choice4: "Winger",
+  answer: 2
 },
 {
   //Question 15
