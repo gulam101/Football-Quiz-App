@@ -20,10 +20,10 @@ let questions = [
 },
 {
   question: "What season did Chelsea sign Eden Hazard?",
-  choice1: "Placeholder",
-  choice2: "Placeholder",
-  choice3: "Placeholder",
-  choice4: "Placeholder",
+  choice1: "2011/2012",
+  choice2: "2012/2013",
+  choice3: "2010/2011",
+  choice4: "2013/2014",
   answer: 1
 }
 ];
