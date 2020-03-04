@@ -111,12 +111,12 @@ let questions = [
 },
 {
   //Question 12
-  question: "What season did Chelsea sign Eden Hazard?",
-  choice1: "2011/2012",
-  choice2: "2012/2013",
-  choice3: "2010/2011",
-  choice4: "2013/2014",
-  answer: 1
+  question: "How many goals did Tevez score at West Ham United?",
+  choice1: "1",
+  choice2: "6",
+  choice3: "7",
+  choice4: "4",
+  answer: 3
 },
 {
   //Question 13
