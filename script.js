@@ -185,7 +185,7 @@ let questions = [
 ];
 
 
-//DONT WANT THESE VALUES TO CHANGE
+//Don't change these values!
 const CORRECT_BONUS = 10;
 const Max_Questions = 25;
 
@@ -231,4 +231,5 @@ choices.forEach(choice => {
   });
 });
 
+//Starts the game
 startGame();
