@@ -84,12 +84,12 @@ let questions = [
 },
 {
   //Question 9
-  question: "What season did Chelsea sign Eden Hazard?",
-  choice1: "2011/2012",
-  choice2: "2012/2013",
-  choice3: "2010/2011",
-  choice4: "2013/2014",
-  answer: 1
+  question: "When did Ronaldo make his debut for United?",
+  choice1: "2000",
+  choice2: "2006",
+  choice3: "2003",
+  choice4: "2002",
+  answer: 3
 },
 {
   //Question 10
