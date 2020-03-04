@@ -72,6 +72,8 @@ p {
   color: #56a5eb;
   background-color: white;
   display: inline-block;
+  /*Default Hover Animation*/
+  -webkit-transition: padding 2s;
 }
 
 /* Animation */
