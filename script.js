@@ -120,8 +120,8 @@ let questions = [
 },
 {
   //Question 13
-  question: "Placeholder",
-  choice1: "Placeholder",
+  question: "Which match was played for Sir Alex Ferguson final match?",
+  choice1: "A 5 all draw against West Bromwich Albion",
   choice2: "Placeholder",
   choice3: "Placeholder",
   choice4: "Placeholder",
