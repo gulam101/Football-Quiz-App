@@ -138,11 +138,11 @@ let questions = [
 },
 {
   //Question 15
-  question: "Placeholder",
-  choice1: "Placeholder",
-  choice2: "Placeholder",
-  choice3: "Placeholder",
-  choice4: "Placeholder",
+  question: "In which season did As Monaco FC win Ligue 2?",
+  choice1: "2012/2013",
+  choice2: "2013/2014",
+  choice3: "2010/2011",
+  choice4: "2011/2012",
   answer: 1
 },
 {
