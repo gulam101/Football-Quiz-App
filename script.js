@@ -57,7 +57,7 @@ let questions = [
 },
 {
   //Question 6
-  question: "In which year did Juventus get relegated?",
+  question: "In which year did Juventus last get relegated?",
   choice1: "2005",
   choice2: "2003",
   choice3: "2007",
