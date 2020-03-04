@@ -11,7 +11,7 @@ let availableQuestions = [];
 //Stores our questions
 let questions = [
 {
-  question: "who won the premier league in 2007?",
+  question: "Who Won The Premier League in 2007?",
   choice1: "Placeholder",
   choice2: "Placeholder",
   choice3: "Placeholder",
