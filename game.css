@@ -29,12 +29,19 @@
 
 .choice-container:hover p {
  color: white;
+ width: 5%;
 }
 
 .choice-prefix {
   padding: 1.5rem 2.5rem;
   background-color: #56a6eb;
   color: white;
+}
+
+.choice-text {
+  text-align: left;
+  padding: 1.5rem;
+  width: 100%;
 }
 
 h1 {
@@ -73,7 +80,6 @@ p {
   background-color: white;
   display: inline-block;
   /*Default Hover Animation*/
-  -webkit-transition: padding 2s;
 }
 
 /* Animation */

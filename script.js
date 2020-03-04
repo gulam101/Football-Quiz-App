@@ -19,7 +19,7 @@ let questions = [
   answer: 1
 },
 {
-  question: "who won the premier league in 2007?",
+  question: "What season was Eden Hazard Signed in?",
   choice1: "Placeholder",
   choice2: "Placeholder",
   choice3: "Placeholder",
