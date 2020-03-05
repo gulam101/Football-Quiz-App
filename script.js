@@ -66,10 +66,10 @@ let questions = [
 },
 {
   //Question 7
-  question: "What was the reason for Juventus for getting relegated?",
+  question: "What was the reason for Juventus getting relegated?",
   choice1: "Players betting on matches",
   choice2: "Manager and assistant manager paying refs for favourable outcomes",
-  choice3: "Manager hit the ref in the face",
+  choice3: "Performance wasn't good enough",
   choice4: "Club went into financial debt",
   answer: 2
 },
