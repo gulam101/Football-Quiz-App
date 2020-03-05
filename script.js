@@ -174,12 +174,12 @@ let questions = [
 },
 {
   //Question 19
-  question: "Placeholder",
-  choice1: "Placeholder",
-  choice2: "Placeholder",
-  choice3: "Placeholder",
-  choice4: "Placeholder",
-  answer: 1
+  question: "When did Mourinho join Real Madrid",
+  choice1: "2009",
+  choice2: "2010",
+  choice3: "2007",
+  choice4: "2008",
+  answer: 2
 },
 {
   //Question 20
@@ -190,6 +190,7 @@ let questions = [
   choice4: "Placeholder",
   answer: 1
 }
+
 ];
 //End of questions
 
