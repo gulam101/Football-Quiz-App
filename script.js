@@ -156,11 +156,11 @@ let questions = [
 },
 {
   //Question 17
-  question: "Placeholder",
-  choice1: "Placeholder",
-  choice2: "Placeholder",
-  choice3: "Placeholder",
-  choice4: "Placeholder",
+  question: "What was Micah Richards first youth club he played for?",
+  choice1: "Leeds United",
+  choice2: "Oldham Athletic",
+  choice3: "Manchester City",
+  choice4: "Aston Villa",
   answer: 1
 },
 {
