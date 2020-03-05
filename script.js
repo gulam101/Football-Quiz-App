@@ -183,12 +183,12 @@ let questions = [
 },
 {
   //Question 20
-  question: "Placeholder",
-  choice1: "Placeholder",
-  choice2: "Placeholder",
-  choice3: "Placeholder",
-  choice4: "Placeholder",
-  answer: 1
+  question: "When did Fernando Torres join Liverpool",
+  choice1: "2009",
+  choice2: "2005",
+  choice3: "2008",
+  choice4: "2007",
+  answer: 4
 }
 
 ];
