@@ -189,9 +189,9 @@ let questions = [
   choice3: "Placeholder",
   choice4: "Placeholder",
   answer: 1
-},
-//End of questions
+}
 ];
+//End of questions
 
 
 //Don't change these values!
