@@ -165,12 +165,12 @@ let questions = [
 },
 {
   //Question 18
-  question: "Placeholder",
-  choice1: "Placeholder",
-  choice2: "Placeholder",
-  choice3: "Placeholder",
-  choice4: "Placeholder",
-  answer: 1
+  question: "What club was Sergio Aguero playing before he joined Manchester City?",
+  choice1: "Barcelona",
+  choice2: "Real Madrid",
+  choice3: "Valencia CF",
+  choice4: "Atletico Madrid",
+  answer: 4
 },
 {
   //Question 19
