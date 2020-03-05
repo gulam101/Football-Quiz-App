@@ -112,3 +112,7 @@ p {
   justify-content: center;
   width: 100%;
 }
+
+.wrapper {
+  padding-top: 15px;
+}
