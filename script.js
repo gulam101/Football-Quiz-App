@@ -181,6 +181,15 @@ let questions = [
   choice4: "Placeholder",
   answer: 1
 },
+{
+  //Question 20
+  question: "Placeholder",
+  choice1: "Placeholder",
+  choice2: "Placeholder",
+  choice3: "Placeholder",
+  choice4: "Placeholder",
+  answer: 1
+},
 //End of questions
 ];
 
