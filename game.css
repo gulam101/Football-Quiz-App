@@ -20,7 +20,7 @@
 }
 
 .choice-container:hover {
-  background-color: grey;
+  background-color: #4E5052;
   transition: 400ms;
   cursor: pointer;
   transform: scale(0.95);
