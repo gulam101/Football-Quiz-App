@@ -205,7 +205,6 @@ startGame = () => {
   //the 3 dots is taking our exitsting array and spreading
   //them out and then putting them into a new array
   availableQuestions = [...questions];
-  console.log(availableQuestions);
   getNewQuestion();
 };
 
@@ -225,7 +224,6 @@ getNewQuestion = () => {
   });
 
   availableQuestions.splice(questionIndex, 1);
-  console.log(availableQuestions);
   acceptingAnswers = true;
 };
 
@@ -236,7 +234,14 @@ choices.forEach(choice => {
     acceptingAnswers = false;
     const selectedChoice = e.target;
     const selectedAnswer = selectedChoice.dataset["number"];
-    console.log(selectedAnswer);
+
+//Checks to see if the awnser is correct or not
+const classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
+
+//outputs the result
+console.log(classToApply);
+
+
     getNewQuestion();
   });
 });
