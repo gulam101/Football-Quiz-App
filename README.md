@@ -61,3 +61,17 @@ I had an idea that when the user was on the quiz and they accidently refreshed t
 
 ### Development Changes:
 Development changes tracks the changes that happend to the project. It orders it by date and description.
+
+- https://www.youtube.com/watch?v=kPPit1B3h6g&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz&index=23 (Tutorial)
+- https://atom.io/ (IDE)
+- https://www.w3schools.com/html/default.asp (For help)
+- https://www.w3schools.com/css/default.asp (For help)
+- Any Modern Browser (Load website)
+- https://unicode-table.com/en/2630/ (Unicode)
+- https://fonts.google.com/specimen/Open+Sans (Google Font)
+- https://www.w3schools.com/js/ (For help)
+- https://www.css3maker.com/css-3-rgba.html (For gradient colour)
+- https://www.youtube.com/watch?v=wwDAvq9MZlQ (Random video)
+- https://www.cssmatic.com/box-shadow (CSS Shadow generator)
+- Google Images (For images)
+- https://www.lipsum.com/ (Dummy text)
