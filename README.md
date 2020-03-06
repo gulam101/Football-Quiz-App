@@ -51,6 +51,8 @@ In the quiz the user has 20 questions in which they can answer. They are not in 
 ### Installing The Tools:
 
 ### Instructions:
+- Step 1: Click on Index.html
+- Step 2: Click on the play button
 
 ### What I Learnt:
 - Arrays in JavaScript
