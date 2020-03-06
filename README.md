@@ -72,6 +72,8 @@ Development changes tracks the changes that happend to the project. It orders it
 - https://www.css3maker.com/css-3-rgba.html (For gradient colour)
 
 ### Screenshots:
+![IMG001](https://user-images.githubusercontent.com/45819118/76122444-f4f7f480-5fed-11ea-95b4-fd43026ca01a.PNG)
+![IMG002](https://user-images.githubusercontent.com/45819118/76122445-f5908b00-5fed-11ea-8fe3-d51ef53b52c2.PNG)
 
 ### Credits:
 - Gulam Qasim
