@@ -238,9 +238,8 @@ choices.forEach(choice => {
 //Checks to see if the awnser is correct or not
 const classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
-//outputs the result
+//outputs the result (Used for tests)
 console.log(classToApply);
-
 
     getNewQuestion();
   });
