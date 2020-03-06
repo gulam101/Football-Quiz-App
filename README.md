@@ -47,3 +47,7 @@ In the quiz the user has 20 questions in which they can answer. They are not in 
 - Any Modern Browser (Preferably Chrome or Firefox)
 - Any IDE to view code (Preferably Atom or Brackets)
 - Access to developer tools on web browser
+
+### What I Learnt:
+- Arrays in JavaScript
+- Using JavaScript to find elements in HTML
