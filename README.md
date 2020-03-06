@@ -43,3 +43,7 @@ The user can interact with the home page and then from there they can click on t
 
 In the quiz the user has 20 questions in which they can answer. They are not in a set order but rather they are designed so that if the user refreshes the page then the questions would be in a different order.
 
+### Prerequisites:
+- Any Modern Browser (Preferably Chrome or Firefox)
+- Any IDE to view code (Preferably Atom or Brackets)
+- Access to developer tools on web browser
