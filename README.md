@@ -62,7 +62,7 @@ In the quiz the user has 20 questions in which they can answer. They are not in 
 I had an idea that when the user was on the quiz and they accidently refreshed the page, it would give them a confirmation box that would ask them if they wanted to leave the page or not. I did get it working but when the user started the quiz it would give them the dialog box and keep on asking them. I did find different ways to reduce the problem into a less of a problem but I decided in the end that I would leave this out.
 
 ### Improvements:
-- Improvement ID: Footer
+- Improvement ID:
 - Description: 
 
 ### Development Changes:
