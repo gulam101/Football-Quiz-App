@@ -54,7 +54,7 @@ In the quiz the user has 20 questions in which they can answer. They are not in 
 - Step 3: Load up project in IDE
 - Step 4: Right click on the .html file and click Live Server
 
-### What I Learnt:
+### What I Learned:
 - Arrays in JavaScript
 - Using JavaScript to find elements in HTML
 
