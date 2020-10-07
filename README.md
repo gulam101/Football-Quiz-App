@@ -35,6 +35,8 @@
 [Credits](#Credits)  
 <a name="Credits"/>
 
+![IMG001](https://user-images.githubusercontent.com/45819118/76122444-f4f7f480-5fed-11ea-95b4-fd43026ca01a.PNG)
+
 ### Description:
 
 This project focused on developing my skills on JavaScript. The design of the project was focused ona single page, which was the play button. I created a football quiz app that allowed the user to click on questions. The main focus on the application was allowing the quiz to update the questions without having a different page for each page for the question.
@@ -78,7 +80,6 @@ Development changes tracks the changes that happend to the project. It orders it
 - https://www.css3maker.com/css-3-rgba.html (For gradient colour)
 
 ### Screenshots:
-![IMG001](https://user-images.githubusercontent.com/45819118/76122444-f4f7f480-5fed-11ea-95b4-fd43026ca01a.PNG)
 ![IMG002](https://user-images.githubusercontent.com/45819118/76122445-f5908b00-5fed-11ea-8fe3-d51ef53b52c2.PNG)
 
 ### Credits:
